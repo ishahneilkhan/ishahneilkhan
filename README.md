@@ -113,12 +113,5 @@ Highlight a few key repositories with descriptions and links:
 
 (https://github.com/ishahneilkhan/Gallery)
 
-## 🏆 My Achievements
-
-- 🌟 100+ Stars on GitHub
-- 🧑‍💻 Completed 15 Flutter Projects
-- 📱 Published apps on Google Play
-- 🎖️ Top 10% in Flutter Bootcamp
-
 
 
