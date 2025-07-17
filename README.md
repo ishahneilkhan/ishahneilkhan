@@ -34,6 +34,30 @@ Let's turn great ideas into smooth mobile experiences!
 ![ShahNeilKhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iShahNeilKhan&show_icons=true&theme=radical)
 
 
+### Numbers
+void main() {
+  List<String> popularLanguages = [
+    "JavaScript",
+    "Python",
+    "Java",
+    "C#",
+    "TypeScript",
+    "C++",
+    "Go",
+    "Rust",
+    "PHP",
+    "Dart"
+  ];
+
+  print("Top 10 Most Used Programming Languages in 2025:");
+  for (var i = 0; i < popularLanguages.length; i++) {
+    print("${i + 1}. ${popularLanguages[i]}");
+  }
+}
+
+
+
+
 ### Reach me at
 
 **Email:** [thesnkgraphic@email.com](mailto:thesnkgraphic@email.com)
