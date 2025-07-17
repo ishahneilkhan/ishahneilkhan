@@ -6,7 +6,6 @@
 
 
 
-
 ## Hi there 👋
 
 I'm a full-time **Flutter Developer** passionate about crafting sleek, high-performance mobile applications.  
@@ -14,7 +13,8 @@ I specialize in building cross-platform apps with clean UI/UX and robust functio
 Let's turn great ideas into smooth mobile experiences!
 
 
-### Tech Stack
+
+## Tech Stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)
@@ -36,6 +36,7 @@ Let's turn great ideas into smooth mobile experiences!
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![CI/CD](https://img.shields.io/badge/CI/CD-blue?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+
 
 
 ### GitHub Stars
