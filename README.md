@@ -32,7 +32,7 @@ Let's turn great ideas into smooth mobile experiences!
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://facebook.com/iamsnkbd)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/iamsnkbd)
 [![Linktree](https://img.shields.io/badge/Linktree-06C755?logo=linktree&logoColor=white&style=for-the-badge)](https://linktr.ee/iamsnkbd) 
-[![bio.link](https://img.shields.io/badge/bio.link-06C755?logo=linktree&logoColor=white&style=for-the-badge)](https://shahneilkhan.bio.link)
+[![bio.link](https://img.shields.io/badge/bio.link-06C755?logo=lbio&logoColor=white&style=for-the-badge)](https://shahneilkhan.bio.link)
 
 
 *Thanks for visiting my profile! 😊*
