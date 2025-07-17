@@ -57,9 +57,11 @@ Highlight a few key repositories with descriptions and links:
 ### Reach me at
 
 [![Connect](https://img.shields.io/badge/Connect-black?style=for-the-badge)](mailto:thesnkgraphic@email.com)
+
 **Email:** [thesnkgraphic@email.com](mailto:thesnkgraphic@email.com)
 
 **WhatsApp Contact:** 
+
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/8801705633700)
 
 
