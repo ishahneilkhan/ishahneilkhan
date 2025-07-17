@@ -2,7 +2,7 @@
 
 I'm a full-time **Flutter Developer** passionate about crafting sleek, high-performance mobile applications.  
 I specialize in building cross-platform apps with clean UI/UX and robust functionality.  
-Let's turn great ideas into smooth mobile experiences! 🚀📱
+Let's turn great ideas into smooth mobile experiences!
 
 
 ### Tech Stack
@@ -28,7 +28,7 @@ Let's turn great ideas into smooth mobile experiences! 🚀📱
 
 ### Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/iamsnkbd/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/company/iamsnkbd/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://facebook.com/iamsnkbd)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/iamsnkbd)
 [![Linktree](https://img.shields.io/badge/Linktree-06C755?logo=linktree&logoColor=white&style=for-the-badge)](https://linktr.ee/iamsnkbd) 
