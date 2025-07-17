@@ -20,21 +20,21 @@ Let's turn great ideas into smooth mobile experiences! 🚀📱
 
 ### GitHub Stars
 
-![ShahNeilKhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahNeilKhan&show_icons=true&theme=radical)
+![ShahNeilKhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iShahNeilKhan&show_icons=true&theme=radical)
 
 
 ### Reach me at
 
 **Email:** [razhossain201@gmail.com](mailto:razhossain201@gmail.com)
 
-[![Connect](https://img.shields.io/badge/Connect-black?style=for-the-badge)](mailto:razhossain201@gmail.com)
+[![Connect](https://img.shields.io/badge/Connect-black?style=for-the-badge)](mailto:thesnkgraphic@email.com)
 
 
 ### Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/yourprofile/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://facebook.com/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/iamsnkbd/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://facebook.com/iamsnkbd)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/iamsnkbd)
 
 
 *Thanks for visiting my profile! 😊*
