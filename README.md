@@ -4,19 +4,9 @@
 ![Cover Image](https://raw.githubusercontent.com/ishahneilkhan/gallery/main/Frame%2015.svg)
 
 
-# Follow Me
-
-<a href="https://github.com/ishahneilkhan" target="_blank">
-  <img src="https://img.shields.io/badge/Follow%20Me%20on-GitHub-181717?style=for-the-badge&logo=github" alt="Follow Me on GitHub"/>
-</a>
-
+# Follow
 
 [![Follow @ishahneilkhan](https://img.shields.io/badge/Follow-@ishahneilkhan-black?style=for-the-badge&logo=github)](https://github.com/ishahneilkhan)
-
-<a href="https://github.com/ishahneilkhan" target="_blank">
-  <img src="https://img.shields.io/badge/Follow-@ishahneilkhan-black?style=for-the-badge&logo=github" alt="Follow @ishahneilkhan"/>
-</a>
-
 
 
 
