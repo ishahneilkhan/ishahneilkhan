@@ -115,12 +115,10 @@ Highlight a few key repositories with descriptions and links:
 
 ## 🏆 My Achievements
 
-| 🔥 Achievement                      | 🗓️ Year     |
-|-------------------------------------|-------------|
-| Completed 10+ Flutter Projects      | 2025        |
-| 100+ GitHub Stars                   | 2025        |
-| Topper in Ostad Flutter Batch       | 2024        |
-| Published apps on Play Store        | 2023 - 2025 |
+- 🌟 100+ Stars on GitHub
+- 🧑‍💻 Completed 15 Flutter Projects
+- 📱 Published apps on Google Play
+- 🎖️ Top 10% in Flutter Bootcamp
 
 
 
