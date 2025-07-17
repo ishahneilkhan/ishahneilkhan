@@ -11,13 +11,6 @@ Let's turn great ideas into smooth mobile experiences!
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
-
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge)
 ![Bloc](https://img.shields.io/badge/BLoC-4A3F35?style=for-the-badge&logo=flutter)
 ![Provider](https://img.shields.io/badge/Provider-42A5F5?style=for-the-badge&logo=flutter)
@@ -34,8 +27,6 @@ Let's turn great ideas into smooth mobile experiences!
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![CI/CD](https://img.shields.io/badge/CI/CD-blue?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
-
-
 
 
 ### GitHub Stars
