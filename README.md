@@ -1,6 +1,5 @@
 
-## 🎙️SHAH NEIL KHAN
-# ishahneilkhan
+## 🎙️SHAH NEIL KHAN | TABAYYUN
 
 ![Cover Image](https://raw.githubusercontent.com/ishahneilkhan/gallery/main/Frame%2015.svg)
 
