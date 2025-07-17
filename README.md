@@ -37,6 +37,12 @@ Let's turn great ideas into smooth mobile experiences!
 ### Top Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iShahNeilKhan&layout=compact&theme=radical)
 
+### Contribution streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iShahNeilKhan&theme=radical)
+
+### WakaTime Stats
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=radical)
+
 
 ### Reach me at
 
