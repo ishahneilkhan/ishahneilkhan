@@ -1,6 +1,6 @@
 
 ## 🎙️SHAH NEIL KHAN
-ishahneilkhan
+# ishahneilkhan
 
 ![Cover Image](https://raw.githubusercontent.com/ishahneilkhan/gallery/main/Frame%2015.svg)
 
