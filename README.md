@@ -95,13 +95,16 @@ Highlight a few key repositories with descriptions and links:
 
 ### 📚 ALL OSTAD ASSIGNMENT
 
-- [✅ Assignment 1: Gallery App](https://github.com/ishahneilkhan/gallery)
-- [✅ Assignment 2: E-commerce CRUD](https://github.com/ishahneilkhan/ecommerce_crud)
-- [✅ Assignment 3: Task Manager App](https://github.com/ishahneilkhan/task_manager)
-- [✅ Assignment 4: Map Tracker](https://github.com/ishahneilkhan/map_tracker)
-- [✅ Assignment 1: Gallery App](https://github.com/ishahneilkhan/gallery)
-- [✅ Assignment 2: E-commerce CRUD](https://github.com/ishahneilkhan/ecommerce_crud)
-- [✅ Assignment 3: Task Manager App](https://github.com/ishahneilkhan/task_manager)
-- [✅ Assignment 4: Map Tracker](https://github.com/ishahneilkhan/map_tracker)
+* [✅ Assignment 1: Module 05](https://github.com/ishahneilkhan/OstadBatch9/blob/main/modules05_assignment01)
+* [✅ Assignment 2: Module-10](https://github.com/ishahneilkhan/OstadBatch9Modules10)
+* [✅ Assignment 3: Module-14 API CRUD Project](https://github.com/ishahneilkhan/ostad-batch-9-flutter-crud-app)
+* [✅ Assignment 4: Module-19  Task manager](https://github.com/ishahneilkhan/ostad-batch-9-module-19-assignment01)
+* [✅ Assignment 5:  Module-20, Task manager with getx](https://github.com/ishahneilkhan/OstadBatch9Module-20-Assignment01)
+* [✅ Assignment 6: Module-22 Google maps and Geolocator](https://github.com/ishahneilkhan/stadBatch9Module-22-Asssignment01)
+* [✅ Assignment 7: Module-29, E commerce App with Rest Api](https://github.com/ishahneilkhan/OstadBatch9Module29Assignment01)
+
+### Live Test: 
+
+* [✅ Assignment : Module-, E](https://github.com/ishahneilkhan/OstadBatch9Module)
 
 
