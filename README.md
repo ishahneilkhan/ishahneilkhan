@@ -25,7 +25,7 @@ Let's turn great ideas into smooth mobile experiences! 🚀📱
 
 ### Reach me at
 
-**Email:** [razhossain201@gmail.com](mailto:razhossain201@gmail.com)
+**Email:** [thesnkgraphic@email.com](mailto:thesnkgraphic@email.com)
 
 [![Connect](https://img.shields.io/badge/Connect-black?style=for-the-badge)](mailto:thesnkgraphic@email.com)
 
