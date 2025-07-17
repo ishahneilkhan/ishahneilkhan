@@ -91,10 +91,14 @@ Highlight a few key repositories with descriptions and links:
 
 *Thanks for visiting my profile! 😊*
 
-### ALL OSTAD ASSIGNMENT
 
-## 📚 Assignments
 
+### 📚 ALL OSTAD ASSIGNMENT
+
+- [✅ Assignment 1: Gallery App](https://github.com/ishahneilkhan/gallery)
+- [✅ Assignment 2: E-commerce CRUD](https://github.com/ishahneilkhan/ecommerce_crud)
+- [✅ Assignment 3: Task Manager App](https://github.com/ishahneilkhan/task_manager)
+- [✅ Assignment 4: Map Tracker](https://github.com/ishahneilkhan/map_tracker)
 - [✅ Assignment 1: Gallery App](https://github.com/ishahneilkhan/gallery)
 - [✅ Assignment 2: E-commerce CRUD](https://github.com/ishahneilkhan/ecommerce_crud)
 - [✅ Assignment 3: Task Manager App](https://github.com/ishahneilkhan/task_manager)
