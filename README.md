@@ -11,6 +11,16 @@
 </a>
 
 
+[![Follow @ishahneilkhan](https://img.shields.io/badge/Follow-@ishahneilkhan-black?style=for-the-badge&logo=github)](https://github.com/ishahneilkhan)
+
+<a href="https://github.com/ishahneilkhan" target="_blank">
+  <img src="https://img.shields.io/badge/Follow-@ishahneilkhan-black?style=for-the-badge&logo=github" alt="Follow @ishahneilkhan"/>
+</a>
+
+
+
+
+
 
 ## Hi there 👋
 
