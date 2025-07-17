@@ -58,7 +58,8 @@ Highlight a few key repositories with descriptions and links:
 
 [![Connect](https://img.shields.io/badge/Connect-black?style=for-the-badge)](mailto:thesnkgraphic@email.com)
 
-**Email:** [thesnkgraphic@email.com](mailto:thesnkgraphic@email.com)
+**Email:**
+[thesnkgraphic@email.com](mailto:thesnkgraphic@email.com)
 
 **WhatsApp Contact:** 
 
