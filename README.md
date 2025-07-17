@@ -4,11 +4,8 @@
 ![Cover Image](https://raw.githubusercontent.com/ishahneilkhan/gallery/main/Frame%2015.svg)
 
 
-# Follow
 
 [![Follow @ishahneilkhan](https://img.shields.io/badge/Follow-@ishahneilkhan-black?style=for-the-badge&logo=github)](https://github.com/ishahneilkhan)
-
-
 
 
 
