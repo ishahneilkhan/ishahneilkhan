@@ -40,8 +40,18 @@ Let's turn great ideas into smooth mobile experiences!
 ### Contribution streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iShahNeilKhan&theme=radical)
 
-### WakaTime Stats
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=radical)
+### Visitor Counter
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=iShahNeilKhan.iShahNeilKhan)
+
+### GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iShahNeilKhan&theme=radical)
+
+### Pinned Projects / Portfolio
+Highlight a few key repositories with descriptions and links:
+### Featured Projects
+
+- [ProjectName](https://github.com/username/projectname) - Short description about the project.
+- [AnotherProject](https://github.com/username/anotherproject) - What it does and why it’s cool.
 
 
 ### Reach me at
