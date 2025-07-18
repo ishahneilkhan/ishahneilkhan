@@ -5,7 +5,7 @@
   <a href="https://github.com/ishahneilkhan/about">
     <img src="https://img.shields.io/badge/About-white?style=for-the-badge&logo=about-dot-me&logoColor=white&labelColor=white&color=white" />
 
-  <a href="https://github.com/ishahneilkhan/Contact">
+  <a href="https://github.com/ishahneilkhan/Contact Me">
     <img src="https://img.shields.io/badge/Contact-white?style=for-the-badge&logo=minutemailer&logoColor=white&labelColor=white&color=white" />
     
   <a href="https://github.com/ishahneilkhan?tab=projects">
@@ -14,27 +14,9 @@
  <a href="https://github.com/ishahneilkhan/Assignments">
     <img src="https://img.shields.io/badge/Assignments-white?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=white&color=white" />
 
+<a href="https://github.com/ishahneilkhan/blogs">
+    <img src="https://img.shields.io/badge/Blogs-white?style=for-the-badge&logo=ghost&logoColor=white&labelColor=white&color=white" />
     
-  </a>
-</p>
-
-
-<p align="center">
-  
-  </a>
-</p>
-
-
-
-<p align="center">
-  <a href="##home">
-    <img src="https://img.shields.io/badge/Home-000000?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="#home">
-    <img src="https://img.shields.io/badge/Home-000000?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
 
