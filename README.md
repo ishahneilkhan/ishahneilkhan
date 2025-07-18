@@ -10,6 +10,10 @@
     
   <a href="https://github.com/ishahneilkhan?tab=projects">
     <img src="https://img.shields.io/badge/Projects-white?style=for-the-badge&logo=github&logoColor=white&rounded=true" />
+
+  <a href="[https://github.com/ishahneilkhan?tab=projects](https://github.com/ishahneilkhan/Assignments)">
+    <img src="https://img.shields.io/badge/Projects-white?style=for-the-badge&logo=github&logoColor=white&rounded=true" />
+
     
   </a>
 </p>
