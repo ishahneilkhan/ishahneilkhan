@@ -33,6 +33,35 @@
 
 
 
+<!-- Cover Image -->
+<p align="center">
+  <img src="https://your-image-link.com/cover-image.png" alt="Cover Image" width="800" />
+</p>
+
+<!-- Two Column Layout -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### Left Column Title
+
+- Point 1  
+- Point 2  
+- Point 3  
+
+    </td>
+    <td width="50%" valign="top">
+
+### Right Column Title
+
+This is some text or links or info for the right column.  
+You can add badges, links, images here as well.
+
+    </td>
+  </tr>
+</table>
+
+
 
 
 
