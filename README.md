@@ -17,14 +17,14 @@
   <a href="#social">
     <img src="https://img.shields.io/badge/Social_Links-30a14e?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
-  <a href="https://yourdownloadlink.com">
+  <a href="https://behance.net">
     <img src="https://img.shields.io/badge/Download-App-20c997?style=for-the-badge&logo=google-play&logoColor=white" />
   </a>
  <p align="center">
-  <a href="https://yourwebsite.com/login">
+  <a href="https://.com/login">
     <img src="https://img.shields.io/badge/Login-0d6efd?style=for-the-badge&logo=auth0&logoColor=white" />
   </a>
-  <a href="https://yourwebsite.com/register">
+  <a href="https://behance.net/register">
     <img src="https://img.shields.io/badge/↳ Register-198754?style=for-the-badge&logo=addthis&logoColor=white" />
   </a>
 </p>
@@ -36,33 +36,6 @@
 
 
 
-
-
-
-
-<p align="center">
-  <a href="#home">
-    <img src="https://img.shields.io/badge/Home-24292e?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://yourwebsite.com/login">
-    <img src="https://img.shields.io/badge/Login-0d6efd?style=for-the-badge&logo=auth0&logoColor=white" />
-  </a>
-  <a href="https://yourwebsite.com/register">
-    <img src="https://img.shields.io/badge/Register-198754?style=for-the-badge&logo=addthis&logoColor=white" />
-  </a>
-  <a href="#features">
-    <img src="https://img.shields.io/badge/Features-f39c12?style=for-the-badge&logo=producthunt&logoColor=white" />
-  </a>
-  <a href="#contact">
-    <img src="https://img.shields.io/badge/Contact-d63384?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge&logo=google-chrome" />
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=com.yourapp">
-    <img src="https://img.shields.io/badge/Download-App-success?style=for-the-badge&logo=google-play&logoColor=white" />
-  </a>
-</p>
 
 
 
