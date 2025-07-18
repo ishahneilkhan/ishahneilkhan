@@ -1,11 +1,4 @@
 
-  <p align="center">
-  <a href="https://github.com/ishahneilkhan/about">
-    <img src="https://img.shields.io/badge/About-3B82F6?style=flat-square&logo=readme&logoColor=white&logoWidth=30" />
-  </a>
-</p>
-
-
 
   <a href="#contact">
     <img src="https://img.shields.io/badge/Contact-d63384?style=for-the-badge&logo=gmail&logoColor=white" />
