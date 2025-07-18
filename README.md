@@ -1,18 +1,20 @@
-
-<!-- Website Visit Button -->
 <p align="center">
   <a href="https://yourwebsite.com" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Visit-Website-blue?style=for-the-badge" />
   </a>
+  <a href="https://play.google.com/store/apps/details?id=com.yourapp" target="_blank">
+    <img src="https://img.shields.io/badge/📱 Download-App-green?style=for-the-badge" />
+  </a>
+  <a href="https://youtu.be/demo_video" target="_blank">
+    <img src="https://img.shields.io/badge/▶️ Watch-Demo-red?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/yourusername/project-repo" target="_blank">
+    <img src="https://img.shields.io/badge/💻 GitHub-Code-black?style=for-the-badge" />
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/✉️ Contact-yellow?style=for-the-badge" />
+  </a>
 </p>
-
-<h1 align="center">Hi, I'm Shah Neil Khan 👋</h1>
-
-<p align="center">
-  🚀 Flutter Developer | ❤️ UI/UX Design | ☕ Tea Enthusiast <br/>
-  Crafting beautiful mobile apps with performance and love.
-</p>
-
 
 
 
