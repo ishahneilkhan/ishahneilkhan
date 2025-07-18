@@ -6,12 +6,6 @@
   </a>
 </p>
 
-<!-- Cover Image / Banner -->
-<p align="center">
-  <img src="https://your-image-link.com/banner.png" alt="Cover Image" width="100%" />
-</p>
-
-<!-- Project or Profile Heading -->
 <h1 align="center">Hi, I'm Shah Neil Khan 👋</h1>
 
 <p align="center">
