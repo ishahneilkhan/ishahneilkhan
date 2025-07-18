@@ -4,6 +4,9 @@
     
   <a href="https://github.com/ishahneilkhan/about">
     <img src="https://img.shields.io/badge/About-white?style=for-the-badge&logo=about-dot-me&logoColor=white&labelColor=green&color=white" />
+
+  <a href="https://github.com/ishahneilkhan/Contactp">
+    <img src="https://img.shields.io/badge/Contact-white?style=for-the-badge&logo=minutemailer&logoColor=black&labelColor=white&color=black" />
   </a>
 </p>
 
