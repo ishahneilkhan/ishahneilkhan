@@ -9,6 +9,30 @@
     <img src="https://img.shields.io/badge/Contact-d63384?style=for-the-badge&logo=gmail&logoColor=white" />
 
 
+<p align="center">
+  <a href="https://github.com/ishahneilkhan?tab=projects">
+    <img src="https://img.shields.io/badge/Projects-📁-blue?style=for-the-badge&logo=github&logoColor=white&rounded=true" />
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## 🎙️SHAH NEIL KHAN | TABAYYUN TV
