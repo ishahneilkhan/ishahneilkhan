@@ -1,4 +1,90 @@
 
+<!-- Website Visit Button -->
+<p align="center">
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Visit-Website-blue?style=for-the-badge" />
+  </a>
+</p>
+
+<!-- Cover Image / Banner -->
+<p align="center">
+  <img src="https://your-image-link.com/banner.png" alt="Cover Image" width="100%" />
+</p>
+
+<!-- Project or Profile Heading -->
+<h1 align="center">Hi, I'm Shah Neil Khan 👋</h1>
+
+<p align="center">
+  🚀 Flutter Developer | ❤️ UI/UX Design | ☕ Tea Enthusiast <br/>
+  Crafting beautiful mobile apps with performance and love.
+</p>
+
+<!-- Social Links -->
+<p align="center">
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" /></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
+</p>
+
+---
+
+## 🚀 My Projects
+| Project | Description | Link |
+|--------|-------------|------|
+| 📱 E-Commerce App | Flutter-based product CRUD app | [View Repo](https://github.com/yourusername/flutter-ecommerce) |
+| 🧾 Task Manager | To-do with deadline & filters | [View Repo](https://github.com/yourusername/task-manager) |
+
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&column=7" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="45%" />
+</p>
+
+---
+
+<p align="center">
+  Made with ❤️ by <b>Shah Neil Khan</b>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 🎙️SHAH NEIL KHAN | TABAYYUN TV
 
 ![Cover Image](https://raw.githubusercontent.com/ishahneilkhan/gallery/main/Frame%2015.svg)
