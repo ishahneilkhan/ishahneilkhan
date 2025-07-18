@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/ishahneilkhan?tab=projects">
-    <img src="https://img.shields.io/badge/Projects-📁-blue?style=for-the-badge&logo=github&logoColor=white&rounded=true" />
+  <a href="#home">
+    <img src="https://img.shields.io/badge/Home-🏠-blue?style=for-the-badge&logo=github&logoColor=white&rounded=true" />
   </a>
 </p>
 
