@@ -2,7 +2,7 @@
 
   <a href="#HOME">
       <a href="https://github.com/ishahneilkhan">
-    <img src="https://img.shields.io/badge/About-6f42c1?style=for-the-badge&logo=about-dot-me&logoColor=white" />
+    <img src="https://img.shields.io/badge/Home-6f42c1?style=for-the-badge&logo=home-dot-me&logoColor=white" />
   </a>
 
 
