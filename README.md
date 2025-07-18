@@ -5,7 +5,7 @@
   <a href="https://github.com/ishahneilkhan/about">
     <img src="https://img.shields.io/badge/About-white?style=for-the-badge&logo=about-dot-me&logoColor=white&labelColor=white&color=white" />
 
-  <a href="https://github.com/ishahneilkhan/Contact Me">
+  <a href="https://github.com/ishahneilkhan/Contact">
     <img src="https://img.shields.io/badge/Contact-white?style=for-the-badge&logo=minutemailer&logoColor=white&labelColor=white&color=white" />
     
   <a href="https://github.com/ishahneilkhan?tab=projects">
