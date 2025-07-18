@@ -17,14 +17,14 @@
   <a href="#social">
     <img src="https://img.shields.io/badge/Social_Links-30a14e?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
-  <a href="https://behance.net">
+  <a href="https://[behance.net](https://www.behance.net/shahneilkhan)">
     <img src="https://img.shields.io/badge/Download-App-20c997?style=for-the-badge&logo=google-play&logoColor=white" />
   </a>
  <p align="center">
   <a href="https://.com/login">
     <img src="https://img.shields.io/badge/Login-0d6efd?style=for-the-badge&logo=auth0&logoColor=white" />
   </a>
-  <a href="https://behance.net/register">
+  <a href="https://[behance.net](https://www.behance.net/shahneilkhan)/register">
     <img src="https://img.shields.io/badge/↳ Register-198754?style=for-the-badge&logo=addthis&logoColor=white" />
   </a>
 </p>
