@@ -30,50 +30,6 @@
 </p>
 
 
-
-
-
-<!-- Cover Image -->
-<p align="center">
-  <img src="https://your-image-link.com/cover-image.png" alt="Cover Image" width="800" />
-</p>
-
-<!-- Two Column Layout -->
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### Left Column Title
-
-- Point 1  
-- Point 2  
-- Point 3  
-
-    </td>
-    <td width="50%" valign="top">
-
-### Right Column Title
-
-This is some text or links or info for the right column.  
-You can add badges, links, images here as well.
-
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 🎙️SHAH NEIL KHAN | TABAYYUN TV
 
 ![Cover Image](https://raw.githubusercontent.com/ishahneilkhan/gallery/main/Frame%2015.svg)
@@ -89,6 +45,51 @@ You can add badges, links, images here as well.
 I'm a full-time **Flutter Developer** passionate about crafting sleek, high-performance mobile applications.  
 I specialize in building cross-platform apps with clean UI/UX and robust functionality.  
 Let's turn great ideas into smooth mobile experiences!
+
+
+
+
+
+
+
+
+<p align="center">
+  <img src="https://your-image-link.com/cover-image.png" alt="Cover Image" width="800" />
+</p>
+
+<!-- Two Column Layout -->
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+
+<img src="https://your-image-link.com/left-column-image.png" alt="Left Image" width="300" />
+
+    </td>
+    <td width="50%" valign="top">
+
+### আপনার বাম কলামের পাশে টেক্সট
+
+এখানে আপনি যেকোনো Markdown লিখতে পারবেন।  
+- পয়েন্ট ১  
+- পয়েন্ট ২  
+- পয়েন্ট ৩
+
+আপনার প্রয়োজন অনুযায়ী বাটন, লিংক বা অন্য কোন তথ্য দিতে পারবেন।
+
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
