@@ -1,4 +1,37 @@
 <p align="center">
+  <a href="#home">
+    <img src="https://img.shields.io/badge/Home-24292e?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://yourwebsite.com/login">
+    <img src="https://img.shields.io/badge/Login-0d6efd?style=for-the-badge&logo=auth0&logoColor=white" />
+  </a>
+  <a href="https://yourwebsite.com/register">
+    <img src="https://img.shields.io/badge/Register-198754?style=for-the-badge&logo=addthis&logoColor=white" />
+  </a>
+  <a href="#features">
+    <img src="https://img.shields.io/badge/Features-f39c12?style=for-the-badge&logo=producthunt&logoColor=white" />
+  </a>
+  <a href="#contact">
+    <img src="https://img.shields.io/badge/Contact-d63384?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge&logo=google-chrome" />
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.yourapp">
+    <img src="https://img.shields.io/badge/Download-App-success?style=for-the-badge&logo=google-play&logoColor=white" />
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
+
+<p align="center">
   <a href="https://yourwebsite.com" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Visit-Website-blue?style=for-the-badge" />
   </a>
@@ -16,44 +49,6 @@
   </a>
 </p>
 
-
-
-
-<!-- Hero Section -->
-<p align="center">
-  <img src="https://your-image-link.com/banner.png" alt="Banner" width="100%" />
-</p>
-
-<h1 align="center">Welcome to MyApp 👋</h1>
-
-<p align="center">
-  The all-in-one solution for your daily tasks. <br/>
-  Built with ❤️ using Flutter, Firebase, and modern UI.
-</p>
-
-<!-- Navigation Buttons (Like Website Menu) -->
-<p align="center">
-  <a href="#home"><img src="https://img.shields.io/badge/Home-000000?style=for-the-badge&logo=github" /></a>
-  <a href="https://yourwebsite.com/login"><img src="https://img.shields.io/badge/Login-blue?style=for-the-badge&logo=auth0" /></a>
-  <a href="https://yourwebsite.com/register"><img src="https://img.shields.io/badge/Register-green?style=for-the-badge&logo=addthis" /></a>
-  <a href="#features"><img src="https://img.shields.io/badge/Features-orange?style=for-the-badge&logo=producthunt" /></a>
-  <a href="#contact"><img src="https://img.shields.io/badge/Contact-red?style=for-the-badge&logo=gmail" /></a>
-</p>
-
----
-
-## 🏠 Home <a name="home"></a>
-This is a smart mobile app to help you manage your life like a pro.
-
----
-
-## ✨ Features <a name="features"></a>
-- 🔐 Login/Register with email
-- 🗓️ Task Management with reminder
-- 📲 Push Notifications
-- 🌐 Sync across devices
-
----
 
 ## 📞 Contact <a name="contact"></a>
 - Email: youremail@example.com  
