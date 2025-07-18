@@ -52,18 +52,16 @@ Let's turn great ideas into smooth mobile experiences!
 
 
 
-
-<!-- Two Column Layout -->
 <table>
   <tr>
-    <!-- Left Column: Image / Design -->
     <td width="50%" valign="top" align="center">
-      <img src="https://your-image-link.com/design-image.png" alt="Design Image" width="300" />
+      <img src="https://your-image-link.com/image1.png" alt="Image 1" width="250" />
     </td>
-
-    <!-- Right Column: Text + Buttons -->
-    <td width="50%" valign="top">
-    
+    <td width="50%" valign="top" align="center">
+      <img src="https://your-image-link.com/image2.png" alt="Image 2" width="250" />
+    </td>
+  </tr>
+</table>
 
 
 
