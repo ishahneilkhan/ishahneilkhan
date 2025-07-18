@@ -1,9 +1,15 @@
+
 <p align="center">
   <a href="#home">
     <img src="https://img.shields.io/badge/Home-1E40AF?style=flat-square&logo=home&logoColor=white&logoWidth=40" />
   </a>
 </p>
 
+
+
+  <a href="#about">
+    <img src="https://img.shields.io/badge/About-6f42c1?style=for-the-badge&logo=about-dot-me&logoColor=white" />
+  </a>
 
 
   <a href="#about">
