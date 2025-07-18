@@ -52,22 +52,17 @@ Let's turn great ideas into smooth mobile experiences!
 
 <table>
   <tr>
-    <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/ishahneilkhan/Gallery/main/Frame%2034.svg" alt="Design 1" width="300" />
+    <td width="33%" align="center">
+      <img src="https://raw.githubusercontent.com/ishahneilkhan/Gallery/main/Frame%2034.svg" alt="Design 1" width="250" />
     </td>
-
-
-    
-    <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/ishahneilkhan/Gallery/main/Frame%2035.svg" alt="Design 2" width="300" />
+    <td width="33%" align="center">
+      <img src="https://raw.githubusercontent.com/ishahneilkhan/Gallery/main/Frame%2035.svg" alt="Design 2" width="250" />
+    </td>
+    <td width="33%" align="center">
+      <img src="https://raw.githubusercontent.com/ishahneilkhan/Gallery/main/Frame%2036.svg" alt="Design 3" width="250" />
     </td>
   </tr>
 </table>
-
-
-
-
-
 
 
 
