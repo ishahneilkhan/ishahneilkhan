@@ -3,10 +3,10 @@
     <img src="https://img.shields.io/badge/Home-6f42c1?style=for-the-badge&logo=home&logoColor=white" />
     
   <a href="https://github.com/ishahneilkhan/about">
-    <img src="https://img.shields.io/badge/About-white?style=for-the-badge&logo=about-dot-me&logoColor=white&labelColor=squre-green&color=white" />
+    <img src="https://img.shields.io/badge/About-white?style=for-the-badge&logo=about-dot-me&logoColor=white&labelColor=green&color=white" />
 
-  <a href="https://github.com/ishahneilkhan/Contactp">
-    <img src="https://img.shields.io/badge/Contact-white?style=for-the-badge&logo=minutemailer&logoColor=black&labelColor=white&color=black" />
+  <a href="https://github.com/ishahneilkhan/Contact">
+    <img src="https://img.shields.io/badge/Contact-white?style=for-the-badge&logo=minutemailer&logoColor=white&labelColor=white&color=white" />
   </a>
 </p>
 
