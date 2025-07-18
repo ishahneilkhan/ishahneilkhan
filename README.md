@@ -20,8 +20,8 @@
 
 
 <p align="center">
-  <a href="#home">
-    <img src="https://img.shields.io/badge/Home-🏠-000000?style=flat-square&logo=github&logoColor=white" />
+  <a href="##home">
+    <img src="https://img.shields.io/badge/Home-000000?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
