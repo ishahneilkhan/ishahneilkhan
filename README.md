@@ -53,10 +53,6 @@ Let's turn great ideas into smooth mobile experiences!
 
 
 
-<p align="center">
-  <img src="https://your-image-link.com/cover-image.png" alt="Cover Image" width="800" />
-</p>
-
 <!-- Two Column Layout -->
 <table>
   <tr>
@@ -67,18 +63,6 @@ Let's turn great ideas into smooth mobile experiences!
     </td>
     <td width="50%" valign="top">
 
-### আপনার বাম কলামের পাশে টেক্সট
-
-এখানে আপনি যেকোনো Markdown লিখতে পারবেন।  
-- পয়েন্ট ১  
-- পয়েন্ট ২  
-- পয়েন্ট ৩
-
-আপনার প্রয়োজন অনুযায়ী বাটন, লিংক বা অন্য কোন তথ্য দিতে পারবেন।
-
-    </td>
-  </tr>
-</table>
 
 
 
