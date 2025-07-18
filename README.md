@@ -50,21 +50,6 @@ Let's turn great ideas into smooth mobile experiences!
 
 
 
-<table width="100%">
-  <tr>
-    <td width="33%" align="center">
-      <img src="https://raw.githubusercontent.com/ishahneilkhan/Gallery/main/Frame%2034.svg" alt="Design 1" width="250" />
-    </td>
-    <td width="33%" align="center">
-      <img src="https://raw.githubusercontent.com/ishahneilkhan/Gallery/main/Frame%2035.svg" alt="Design 2" width="250" />
-    </td>
-    <td width="33%" align="center">
-      <img src="https://raw.githubusercontent.com/ishahneilkhan/Gallery/main/Frame%2036.svg" alt="Design 3" width="250" />
-    </td>
-  </tr>
-</table>
-
-
 
 <table>
   <tr>
@@ -87,7 +72,25 @@ Let's turn great ideas into smooth mobile experiences!
 </table>
 
 
-
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/ishahneilkhan/Gallery/blob/main/Frame%2034.svg" target="_blank">
+        <img src="https://raw.githubusercontent.com/ishahneilkhan/Gallery/main/Frame%2034.svg" alt="Design 1" width="250" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/ishahneilkhan/Gallery/blob/main/Frame%2035.svg" target="_blank">
+        <img src="https://raw.githubusercontent.com/ishahneilkhan/Gallery/main/Frame%2035.svg" alt="Design 2" width="250" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/ishahneilkhan/Gallery/blob/main/Frame%2036.svg" target="_blank">
+        <img src="https://raw.githubusercontent.com/ishahneilkhan/Gallery/main/Frame%2036.svg" alt="Design 3" width="250" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
