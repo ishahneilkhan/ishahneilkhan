@@ -1,8 +1,4 @@
- <a href="#HOME">
-      <a href="https://github.com/ishahneilkhan">
-    <img src="https://img.shields.io/badge/Home-6f42c1?style=for-the-badge&logo=home-dot-me&logoColor=white" />
-  </a>
-  
+
   <p align="center">
   <a href="https://github.com/ishahneilkhan/about">
     <img src="https://img.shields.io/badge/About-3B82F6?style=flat-square&logo=readme&logoColor=white&logoWidth=30" />
