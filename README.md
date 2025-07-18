@@ -50,7 +50,7 @@ Let's turn great ideas into smooth mobile experiences!
 
 
 
-<table>
+<table width="100%">
   <tr>
     <td width="33%" align="center">
       <img src="https://raw.githubusercontent.com/ishahneilkhan/Gallery/main/Frame%2034.svg" alt="Design 1" width="250" />
@@ -63,6 +63,7 @@ Let's turn great ideas into smooth mobile experiences!
     </td>
   </tr>
 </table>
+
 
 
 
