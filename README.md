@@ -54,7 +54,7 @@ Let's turn great ideas into smooth mobile experiences!
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <img src="https://your-image-link.com/image1.png" alt="Image 1" width="250" />
+      <img src="[https://your-image-link.com/image1.png](https://github.com/ishahneilkhan/Gallery/blob/main/Frame%2034.svg)" alt="Image 1" width="250" />
     </td>
     <td width="50%" valign="top" align="center">
       <img src="https://your-image-link.com/image2.png" alt="Image 2" width="250" />
