@@ -1,8 +1,9 @@
 <p align="center">
   <a href="#home">
-    <img src="https://img.shields.io/badge/Home-black?style=for-the-badge&logo=github&logoColor=white&rounded=true" />
+    <img src="https://img.shields.io/badge/Home-1E40AF?style=flat-square&logo=🏠&logoColor=white" />
   </a>
 </p>
+
 
   <a href="#about">
     <img src="https://img.shields.io/badge/About-6f42c1?style=for-the-badge&logo=about-dot-me&logoColor=white" />
@@ -27,7 +28,7 @@
 
 <p align="center">
   <a href="#home">
-    <img src="https://img.shields.io/badge/Home-🏠-000000?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Home-000000?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
 
