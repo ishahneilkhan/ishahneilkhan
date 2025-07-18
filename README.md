@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/Home-6f42c1?style=for-the-badge&logo=home&logoColor=white" />
     
   <a href="https://github.com/ishahneilkhan/about">
-    <img src="https://img.shields.io/badge/About-white?style=for-the-badge&logo=about-dot-me&logoColor=black&labelColor=white&color=black" />
+    <img src="https://img.shields.io/badge/About-white?style=for-the-badge&logo=about-dot-me&logoColor=white&labelColor=white&color=white" />
   </a>
 </p>
 
