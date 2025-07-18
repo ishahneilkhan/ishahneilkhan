@@ -20,14 +20,14 @@
   <a href="https://yourdownloadlink.com">
     <img src="https://img.shields.io/badge/Download-App-20c997?style=for-the-badge&logo=google-play&logoColor=white" />
   </a>
+ <p align="center">
   <a href="https://yourwebsite.com/login">
     <img src="https://img.shields.io/badge/Login-0d6efd?style=for-the-badge&logo=auth0&logoColor=white" />
   </a>
   <a href="https://yourwebsite.com/register">
-    <img src="https://img.shields.io/badge/Register-198754?style=for-the-badge&logo=addthis&logoColor=white" />
+    <img src="https://img.shields.io/badge/↳ Register-198754?style=for-the-badge&logo=addthis&logoColor=white" />
   </a>
 </p>
-
 
 
 
