@@ -19,6 +19,46 @@
 
 
 
+<!-- Hero Section -->
+<p align="center">
+  <img src="https://your-image-link.com/banner.png" alt="Banner" width="100%" />
+</p>
+
+<h1 align="center">Welcome to MyApp 👋</h1>
+
+<p align="center">
+  The all-in-one solution for your daily tasks. <br/>
+  Built with ❤️ using Flutter, Firebase, and modern UI.
+</p>
+
+<!-- Navigation Buttons (Like Website Menu) -->
+<p align="center">
+  <a href="#home"><img src="https://img.shields.io/badge/Home-000000?style=for-the-badge&logo=github" /></a>
+  <a href="https://yourwebsite.com/login"><img src="https://img.shields.io/badge/Login-blue?style=for-the-badge&logo=auth0" /></a>
+  <a href="https://yourwebsite.com/register"><img src="https://img.shields.io/badge/Register-green?style=for-the-badge&logo=addthis" /></a>
+  <a href="#features"><img src="https://img.shields.io/badge/Features-orange?style=for-the-badge&logo=producthunt" /></a>
+  <a href="#contact"><img src="https://img.shields.io/badge/Contact-red?style=for-the-badge&logo=gmail" /></a>
+</p>
+
+---
+
+## 🏠 Home <a name="home"></a>
+This is a smart mobile app to help you manage your life like a pro.
+
+---
+
+## ✨ Features <a name="features"></a>
+- 🔐 Login/Register with email
+- 🗓️ Task Management with reminder
+- 📲 Push Notifications
+- 🌐 Sync across devices
+
+---
+
+## 📞 Contact <a name="contact"></a>
+- Email: youremail@example.com  
+- WhatsApp: [Click to Chat](https://wa.me/88017xxxxxxx)  
+- Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
 
 
