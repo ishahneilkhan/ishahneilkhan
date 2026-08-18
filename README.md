@@ -39,15 +39,14 @@
 
 
 
-## Hi there 👋
+## Hi there, Iam Shah Neil Khan | SNK 👋
 
-I'm a full-time **Flutter Developer** passionate about crafting sleek, high-performance mobile applications.  
-I specialize in building cross-platform apps with clean UI/UX and robust functionality.  
-Let's turn great ideas into smooth mobile experiences!
+Lead UX Digital Expert @ Yaqeen Institute | Product Leader turned Builder
 
-
-
-
+🔹 6 years designing and shipping software as a product leader.
+🔹 Now building AI-powered tools for product managers.
+🔹 Flutter background — crafting sleek, high-performance cross-platform mobile apps with clean UI/UX.
+🔹 Turning great ideas into smooth, impactful products.
 
 
 
