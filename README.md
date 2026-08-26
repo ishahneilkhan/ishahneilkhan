@@ -1,69 +1,70 @@
-# Hi, I'm Shah Neil Khan 👋
+# 👋 Hi, I'm Shah Neil Khan
 
 ### Lead UX & Digital Expert @ Yaqeen Institute
 
-Building AI-powered tools for Product Managers • 6+ Years in Product Leadership • Flutter Developer Background
-
-🌐 **Website:** [SNK GuideUp](https://snkguideup.github.io/)
+> Building AI-powered tools for Product Managers | 6+ yrs in Product Leadership | Flutter Developer background
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💼 About Me
 
-I'm a UX & Digital Expert with 6+ years of experience in product leadership and digital innovation.
+I'm a **Lead UX & Digital Expert** with over **6 years of experience in Product Leadership and Digital Innovation**.
 
-I focus on designing meaningful digital experiences and building AI-powered tools that help Product Managers work smarter.
+I work at **Yaqeen Institute**, where I focus on creating meaningful digital experiences and building solutions that combine **UX, Product Thinking, AI, and Technology**.
 
-With a background in Flutter development, I combine **UX, Product Thinking, AI, and Technology** to transform ideas into useful digital products.
-
-> **From Skill to Income 🚀**
+With a background in **Flutter Development**, I understand both the design and technical sides of digital products. My goal is to build useful, scalable, and AI-powered solutions that solve real-world problems.
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 What I Do
 
-- 🤖 Building AI-powered tools for Product Managers
-- 🎨 Creating modern UX/UI experiences
-- 📱 Exploring Flutter & cross-platform development
-- 🧠 Learning and applying AI in product development
-- 🌱 Building digital products and communities
+🔹 Lead UX & Digital Projects
+🔹 Build AI-powered tools for Product Managers
+🔹 Product Strategy & Digital Innovation
+🔹 UI/UX Design & User Experience
+🔹 Flutter & Cross-platform Development
+🔹 AI-powered Product Development
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ My Skills
 
 ### 🎨 Design & Product
 
-`UX Design` • `UI Design` • `Product Leadership` • `Figma` • `Design Systems`
+`UX Design` `UI Design` `Product Strategy` `Product Leadership`
 
 ### 💻 Development
 
-`Flutter` • `Dart` • `GitHub` • `HTML` • `CSS`
+`Flutter` `Dart` `HTML` `CSS` `GitHub`
 
 ### 🤖 AI & Digital
 
-`AI Tools` • `AI-Powered Products` • `Prompt Engineering` • `Digital Strategy`
+`AI Tools` `AI-Powered Products` `Digital Innovation` `Prompt Engineering`
 
 ---
 
-## 🌐 Find Me Online
+## 🌐 My Website
 
-🌍 **Website:** [snkguideup.github.io](https://snkguideup.github.io/)  
-🐙 **GitHub:** [@ishahneilkhan](https://github.com/ishahneilkhan)
+### 👉 [Visit SNK GuideUp →](https://snkguideup.github.io/)
+
+---
+
+## 📌 My Focus
+
+Currently focused on:
+
+* 🤖 Building AI-powered tools
+* 📊 Improving Product Management workflows
+* 🎨 Creating better digital experiences
+* 📱 Exploring modern Flutter development
+* 🚀 Building useful digital products
 
 ---
 
 ## 🤝 Let's Connect!
 
-I'm always interested in discussing:
+I'm always open to discussing:
 
-💡 Product Ideas • 🎨 UX Design • 🤖 AI Tools • 📱 Flutter • 🚀 Digital Innovation
+**UX • Product • AI • Flutter • Digital Innovation**
 
-### ⭐ Let's build something meaningful together!
-
----
-
-<p align="center">
-  <i>Lead UX & Digital Expert @ Yaqeen Institute</i><br>
-  Building the future with Design, Product & AI 🚀
-</p>
+### 🚀 Let's build something meaningful together!
