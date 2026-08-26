@@ -68,3 +68,27 @@ I'm always open to discussing:
 **UX • Product • AI • Flutter • Digital Innovation**
 
 ### 🚀 Let's build something meaningful together!
+
+
+
+
+
+# 👋 Hi, I'm Shah Neil Khan
+
+### Lead UX & Digital Expert @ Yaqeen Institute
+
+> Building AI-powered tools for Product Managers | 6+ yrs in Product Leadership | Flutter Developer background
+
+---
+
+## 🌐 SNK GuideUp
+
+<a href="https://snkguideup.github.io/" target="_blank">
+  <img
+    src="https://snkguideup.github.io/preview.png"
+    alt="SNK GuideUp Website"
+    width="100%"
+  />
+</a>
+
+### 🚀 Click the preview above to visit SNK GuideUp
