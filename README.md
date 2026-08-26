@@ -107,3 +107,101 @@ Product Problem
    AI + Tech
        ↓
   Better Product
+
+
+
+
+
+# 👋 Hi, I'm Shah Neil Khan
+
+### Lead UX & Digital Expert @ Yaqeen Institute
+
+**Building AI-powered tools for Product Managers | 6+ yrs in Product Leadership | Flutter Developer Background**
+
+---
+
+## 🌐 SNK GuideUp
+
+<p align="center">
+  <a href="https://snkguideup.github.io/" target="_blank">
+    <img
+      src="YOUR-LANDING-PAGE-IMAGE-URL"
+      alt="SNK GuideUp - Free Learning Academy"
+      width="100%"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://snkguideup.github.io/">
+    🚀 <b>Open SNK GuideUp</b>
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Lead UX & Digital Expert** with 6+ years of experience in Product Leadership, UX, Digital Innovation, and Technology.
+
+I focus on creating meaningful digital experiences and building **AI-powered tools for Product Managers**.
+
+With a background in **Flutter Development**, I combine UX, Product Thinking, AI, and Technology to transform ideas into useful digital products.
+
+> **Design better. Build smarter. Create meaningful products.**
+
+---
+
+## 🚀 What I Do
+
+- 🎨 UX/UI Design
+- 📊 Product Strategy & Leadership
+- 🤖 AI-Powered Product Development
+- 📱 Flutter Development
+- 💡 Digital Product Design
+- 🌐 Digital Innovation
+- 🎓 Digital Learning Platforms
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 🎨 Design & Product
+
+`UX Design` • `UI Design` • `Figma` • `Product Strategy` • `Design Systems`
+
+### 💻 Development
+
+`Flutter` • `Dart` • `HTML` • `CSS` • `GitHub`
+
+### 🤖 AI & Digital
+
+`AI Tools` • `AI-Powered Products` • `Prompt Engineering` • `Digital Innovation`
+
+---
+
+## 🎓 SNK GuideUp
+
+**SNK GuideUp — Free Learning Academy**
+
+A digital learning platform focused on making quality learning resources more accessible.
+
+🌐 **Live Website:**  
+https://snkguideup.github.io/
+
+---
+
+## 🤖 AI × Product
+
+Currently exploring and building AI-powered solutions for Product Managers.
+
+```text
+Problem
+   ↓
+UX Research
+   ↓
+Product Thinking
+   ↓
+AI + Technology
+   ↓
+Better Digital Product
