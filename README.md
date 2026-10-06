@@ -5,7 +5,7 @@
 **Building AI-powered tools for Product Managers | 6+ yrs in Product Leadership | Flutter Developer Background**
 
 <p align="left">
-  <a href="https://snkguideup.github.io/">
+  <a href="https://snkguideup.com/">
     <img src="https://img.shields.io/badge/🌐%20SNK%20GuideUp-Visit%20Website-00C853?style=for-the-badge" alt="SNK GuideUp">
   </a>
   <a href="https://github.com/ishahneilkhan">
@@ -80,7 +80,7 @@ I'm building **SNK GuideUp** as a digital learning platform focused on making qu
 
 <p align="center">
 
-<a href="https://snkguideup.github.io/">
+<a href="https://snkguideup.com/">
 
 <img src="https://img.shields.io/badge/🚀%20EXPLORE%20SNK%20GUIDEUP-00C853?style=for-the-badge&labelColor=111111" alt="Explore SNK GuideUp">
 
@@ -89,7 +89,7 @@ I'm building **SNK GuideUp** as a digital learning platform focused on making qu
 </p>
 
 **Website:**  
-👉 https://snkguideup.github.io/
+👉 https://snkguideup.com/
 
 ---
 
